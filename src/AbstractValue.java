@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class AbstractValue {
     public static void main(String[] arg) {
         System.out.println("Please Enter Number ");

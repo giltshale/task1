@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class PrintByOrder {
     public static void main(String[] args) {
         System.out.println("Please enter 3 numbers");
